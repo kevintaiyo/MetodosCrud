@@ -1,0 +1,12 @@
+/* CSS GERAL */
+body{
+    background: url(../imgs/hd-wallpaper-g7fa422803_1920.jpg) no-repeat;
+    color: #000; 
+}
+.caixa{
+    background-color: #fff;
+    padding: 30px  30px  30px  30px;
+    width: fit-content;
+    border-radius: 10px;
+}
+/* CSS GERAL */
